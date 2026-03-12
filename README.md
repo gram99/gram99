@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gram99
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI with Python
-- 💞️ I’m looking to collaborate on using....
+- 👀 I’m interested in AI/ML/Tiny ML
+- 🌱 Creating analysis models using Python libraries.
+- 💞️ I’m looking to collaborate on using Python to develop predictive models.
 - 📫 How to reach me ...
 
 <!---
