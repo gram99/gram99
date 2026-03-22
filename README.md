@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gram99
-- 👀 I’m interested in AI/ML/Tiny ML
-- 🌱 Creating analysis models using Python libraries.
+- 👀 I’m interested in AI/ML/Tiny ML, model construction, interactive dashboards.
+- 🌱 Creating analysis and predictive models using Python libraries. Creating informative dashboards.
 - 💞️ I’m looking to collaborate on using Python to develop predictive models.
 - 📫 How to reach me ...
 
