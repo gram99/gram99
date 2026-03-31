@@ -1,4 +1,4 @@
-# James Graham, MBA, MS, MA 👋 
+# James Graham, MBA, MS, MA 
 ### Finance Executive | Credit Risk, Asset Disposition, & Regulatory Compliance Specialist
 
 I am a strategic finance leader with 20+ years of experience managing multi-billion dollar portfolios across **PNC Bank**, the **U.S. Department of Housing and Urban Development (HUD) Federal Housing Administration**, and "Big Four" Consulting firms. 
