@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gram99
-- 👀 I’m interested in AI/ML/Tiny ML, model construction, interactive dashboards.
-- 🌱 Creating analysis and predictive models using Python libraries. Creating informative dashboards.
-- 💞️ I’m looking to collaborate on using Python to develop predictive models.
+- 👀 I’m interested in AI/ML/Tiny ML, model construction, interactive dashboards, finance, financial risk, NPL strategy, AML strategy. Developing "real life" Tiny ML applications.
+- 🌱 Creating financial and credit analysis and predictive models using Python libraries to address specific financial problems.
+- 💞️ I’m looking to collaborate on using Python to develop predictive financial an credit models.
 - 📫 How to reach me ...
 
 <!---
