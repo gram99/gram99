@@ -1,7 +1,7 @@
 # James Graham, MBA, MS, MA 👋 
-### Finance Executive | Credit Risk & Regulatory Compliance Specialist
+### Finance Executive | Credit Risk, Asset Disposition, & Regulatory Compliance Specialist
 
-I am a strategic finance leader with 20+ years of experience managing multi-billion dollar portfolios across **PNC Bank**, the **U.S. Department of Housing and Urban Development (HUD)**, and major public housing authorities. 
+I am a strategic finance leader with 20+ years of experience managing multi-billion dollar portfolios across **PNC Bank**, the **U.S. Department of Housing and Urban Development (HUD) Federal Housing Administration**, and "Big Four" Consulting firms. 
 
 This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in automating **Basel III**, **CCAR/DFAST**, and **IFRS 9** frameworks using Python and Streamlit.
 
@@ -10,7 +10,7 @@ This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in au
 ## 🏛️ Executive Expertise & Regulatory Focus
 - **Risk Modeling:** End-to-end PD, LGD, and EAD scoring; Inherent Loss Indicator (ILI) development.
 - **Regulatory Filings:** Automation frameworks for **FR-Y-14Q/M**, **FR-Y-9C**, and **FDIC** requirements.
-- **Stress Testing:** Scenario analysis for CRE and C&IB portfolios (CCAR/DFAST/DFAST).
+- **Stress Testing:** Scenario analysis for CRE, C&IB, and Retail loan portfolios (CCAR/DFAST/DFAST).
 - **Portfolio Oversight:** Management of FHA multifamily and single-family loan insurance activities.
 
 ---
