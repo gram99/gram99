@@ -46,6 +46,5 @@ Tools designed to automate data extraction and validation for Federal Reserve an
 ## 🔒 Security & Privacy Notice
 *I maintain a minimal social media presence to focus on technical research and professional development.*
 
-- **Contact:** Please refer to the **Phone and Address** provided on the PDF resume submitted with my application.
-- **Direct Email:** [Click to Reveal Email](mailto:Rg170596@gmail.com) *(Note: Using a mailto link helps prevent some basic scrapers while remaining clickable for humans).*
+- **Contact:** Please refer to the **Phone, Address, and e-mail address** provided on the PDF resume submitted with my application.
 - **Data Integrity:** All repositories use **synthetic or public data** and contain no PII or proprietary institutional logic.
