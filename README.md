@@ -9,9 +9,11 @@ This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in au
 
 ## 🏛️ Executive Expertise & Regulatory Focus
 - **Risk Modeling:** End-to-end PD, LGD, and EAD scoring; Inherent Loss Indicator (ILI) development.
-- **Regulatory Filings:** Automation frameworks for **FR-Y-14Q/M**, **FR-Y-9C**, and **FDIC** requirements.
+- **Regulatory Reporting & Filings:** Automation frameworks for **FR-Y-14Q/M**, **FR-Y-9C**, and **FDIC** requirements.
 - **Stress Testing:** Scenario analysis for CRE, C&IB, and Retail loan portfolios (CCAR/DFAST/DFAST).
 - **Portfolio Oversight:** Management of FHA multifamily and single-family loan insurance activities.
+- **Asset Disposition & Strategy:** Disposition of NPL loan portfolios, portfolio due dilgence for loan sales, loan syndication, portfolio analytics.
+- **Blended/Special Purpose Finance :** To fund infrastructure projects, development projects, and large-scale public-private partnerships (PPPs).
 
 ---
 
