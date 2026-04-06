@@ -35,7 +35,8 @@ This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in au
 ### 📊 [Regulatory Reporting Automation (FR-Y-9C)](Link-to-Repo)
 Tools designed to automate data extraction and validation for Federal Reserve and SEC filings.
 
-### 📈 [Loan Collectability & Recovery Toolbox)](Link-to-Repo)
+### 📈 [Loan Collectability & Recovery Toolbox](Link-to-Repo)
+A Streamlit-based interactive analytics tool for modeling loan collectability, expected recovery value, and portfolio‑level cash‑flow projections.
 
 ---
 
