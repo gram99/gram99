@@ -1,9 +1,9 @@
-# James Graham, MBA, MS, MA 
-### Finance Executive | Credit Risk, Asset Disposition, & Regulatory Compliance Specialist
+# James Graham 
+### Finance | Credit Risk, Asset Disposition, & Regulatory Compliance Specialist
 
-I am a strategic finance leader with 20+ years of experience managing multi-billion dollar portfolios across **PNC Bank**, the **U.S. Department of Housing and Urban Development (HUD) Federal Housing Administration**. 
+I am a strategic finance leader with 20+ years of experience managing multi-billion dollar portfolios across **PNC Bank**, **PwC**, **KPMG**, and the **U.S. Department of Housing and Urban Development (HUD) Federal Housing Administration**. 
 
-This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in automating **Basel III**, **CCAR/DFAST**, **IFRS 9**, and general **Credit Risk** frameworks using Python and Streamlit.
+This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in automating **Basel III**, **CCAR/DFAST**, **IFRS 9**, and general **Credit Risk** frameworks using Python, SAS, and Streamlit.
 
 ---
 
@@ -13,12 +13,13 @@ This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in au
 - **Stress Testing:** Scenario analysis for CRE, C&IB, and Retail loan portfolios (CCAR/DFAST/DFAST).
 - **Portfolio Oversight:** Management of FHA multifamily and single-family loan insurance activities.
 - **Asset Disposition & Strategy:** Disposition of NPL loan portfolios, portfolio due dilgence for loan sales, loan syndication, portfolio analytics.
-- **Blended/Special Purpose Finance :** Funding infrastructure projects, development projects, and large-scale public-private partnerships (PPPs).
+- **Blended/Special Purpose Finance:** Funding infrastructure projects, development projects, and large-scale public-private partnerships (PPPs).
+- **Credit Scoring:** Appending credit scores and risk data for C&IB, CRE, and Retail loan portfolios to evaluate overall health, risk concentration, and performance of the portfolio, 
 
 ---
 
 ## 🛠️ Featured Technical PoCs
-*These projects translate executive risk management logic into scalable, auditable Python code.*
+*These projects translate executive risk management logic into scalable, using auditable Python code, AI/ML models, and Streamlit.*
 
 ### 📈 [PD-LGD-EAD Credit Risk Framework](Link-to-Repo)
 **Basel III Compliant IRB Approach**
@@ -39,7 +40,7 @@ Tools designed to automate data extraction and validation for Federal Reserve an
 ## 🎓 Education & Certifications
 - **MBA & MS in Finance** | Johns Hopkins University (GPA: 3.8)
 - **MA in International Business & Policy** | Georgetown University (GPA: 3.7)
-- **Certifications:** AI for Credit Scoring, Agile Scrum Master, Oracle Cloud Generative AI, HarvardX TinyML.
+- **Certifications:** AI for Credit Scoring, Agile Scrum Master, Oracle Cloud Generative AI, HarvardX TinyML, Credit Risk Modelling: PD, LGD, EAD & ECL in SAS.
 
 ---
 
