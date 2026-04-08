@@ -1,5 +1,5 @@
 # James Graham 
-### Finance | Credit Risk | Asset Disposition | Regulatory Compliance 
+### Finance | Credit Risk | Asset Disposition | Regulatory Compliance | Portfolio Risk Management | Financial Modeling 
 
 I am a strategic finance leader with 20+ years of experience managing multi-billion dollar portfolios across **PNC Bank**, **PwC**, **KPMG**, and the **U.S. Department of Housing and Urban Development (HUD) Federal Housing Administration**. 
 
