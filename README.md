@@ -7,6 +7,16 @@ This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in au
 
 ---
 
+## Using this Github - PLEASE READ
+
+**Repositories** - Each Repository in this github includes a comprehensive **README.md** mark down file.  These README files contain all of the information necessary to run the PoC as well as screen shots from the PoC at the bottom of each README.md file. 
+
+The README.md file also **contains login and password** information for those PoCs that have a security layer. 
+
+**ALL** of the data used in the PoCs in all of the repositories is sythetic data.  There is **no PII data** in any of the repositories.  The only data used that is not synthetic is found in the bank-poc-repo repository.  The data in that PoC is sourced from Federal Financial Institutions Examination Council (FFIEC) website: https://www.ffiec.gov/
+
+---
+
 ## 🏛️ Executive Expertise & Regulatory Focus
 - **Risk Modeling:** End-to-end PD, LGD, and EAD scoring; Inherent Loss Indicator (ILI) development.
 - **Regulatory Reporting & Filings:** Automation frameworks for **FR-Y-14Q/M**, **FR-Y-9C**, and **FDIC** requirements.
