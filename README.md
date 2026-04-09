@@ -3,7 +3,7 @@
 
 I am a strategic finance leader with 20+ years of experience managing and modeling multi-billion dollar portfolios across **PNC Bank**, **PwC**, **KPMG**, and the **U.S. Department of Housing and Urban Development (HUD) Federal Housing Administration**. 
 
-This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in automating **Basel III**, **CCAR/DFAST**, **IFRS 9**, and general **Credit Risk** frameworks using Python, SAS, and Streamlit.
+This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in automating **Basel III**, **CCAR/DFAST**, **IFRS 9**, and general **Credit Risk** frameworks using Python, SAS, Gradio, and Streamlit.
 
 ---
 
@@ -53,7 +53,7 @@ A Streamlit-based interactive analytics tool for modeling loan collectability, e
 ## 🎓 Education & Certifications
 - **MBA & MS in Finance** | Johns Hopkins University (GPA: 3.8)
 - **MA in International Business & Policy** | Georgetown University (GPA: 3.7)
-- **Certifications:** AI for Credit Scoring, Agile Scrum Master, Oracle Cloud Generative AI, HarvardX TinyML, Credit Risk Modelling: PD, LGD, EAD & ECL in SAS.
+- **Certifications:** AI for Credit Scoring, Agile Scrum Master, Agile Product Owner, Oracle Cloud Infrastructure Generative AI Professional, HarvardX TinyML, Credit Risk Modelling: PD, LGD, EAD & ECL in SAS, Credit Risk Scorecard Development using Python, Interactive Python & AI Gradio Aplications, IFRS 9 Credit Risk Modeling:PIT, Lifetime, PD, ECL, Blockchain Expert, Smart Contract Developer, Data Analytics Professional.
 
 ---
 
