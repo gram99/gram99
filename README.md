@@ -3,7 +3,7 @@
 
 I am a strategic finance leader with 20+ years of experience managing and modeling multi-billion dollar portfolios across **PNC Bank**, **PwC**, **KPMG**, and the **U.S. Department of Housing and Urban Development (HUD) Federal Housing Administration**. 
 
-This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in automating **Basel III**, **CCAR/DFAST**, **IFRS 9**, and general **Credit Risk** frameworks using Python, SAS, Gradio, and Streamlit.
+This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in automating **Basel III**, **CCAR/DFAST**, **IFRS 9**, and general **Credit Risk** frameworks using Python and Streamlit.
 
 ---
 
