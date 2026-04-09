@@ -13,7 +13,7 @@ This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in au
 
 The README.md file also **contains login and password** information for those PoCs that have a security layer. 
 
-**ALL** of the data used in the PoCs in all of the repositories is sythetic data.  There is **no PII data** in any of the repositories.  The only data used that is not synthetic is found in the bank-poc-repo repository.  The data in that PoC is sourced from Federal Financial Institutions Examination Council (FFIEC) website: https://www.ffiec.gov/
+**ALL** of the data used in the PoCs in all of the repositories found on this site is sythetic data.  There is **no PII data** in any of the repositories.  The only data used that is not synthetic is found in the bank-poc-repo repository.  The data in that PoC is sourced from Federal Financial Institutions Examination Council (FFIEC) website: https://www.ffiec.gov/
 
 ---
 
