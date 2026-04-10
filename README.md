@@ -7,7 +7,7 @@ This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in au
 
 ---
 
-## Using this Github - PLEASE READ
+## Using the Repositories - PLEASE READ
 
 **Repositories** - Each Repository in this github includes a comprehensive **README.md** mark down file.  These README files contain all of the information necessary to run the PoC as well as screen shots from the PoC at the bottom of each README.md file. 
 
