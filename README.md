@@ -9,7 +9,7 @@ This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in au
 
 ## Using the Repositories - PLEASE READ
 
-**Repositories** - Each Repository in this github includes a comprehensive **README.md** mark down file.  These README files contain all of the information necessary to run the PoC code as well as screen shots from the PoC at the bottom of each README.md file. 
+**Repositories** - Each Repository in this github includes a comprehensive **README.md** mark down file.  These README files contain all of the information necessary to run the PoC code as well as screen shots from the PoC in Streamlit at the bottom of each README.md file. 
 
 The README.md file also **contains login and password** information for those PoCs that have a security layer. 
 
