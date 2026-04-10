@@ -1,7 +1,7 @@
 # James Graham 
 ### Finance | Credit Risk | Asset Disposition | Regulatory Compliance | Portfolio Risk Management | Financial Modeling 
 
-I am a strategic finance leader with 20+ years of experience managing and modeling multi-billion dollar portfolios across **PNC Bank**, **PwC**, **KPMG**, and the **U.S. Department of Housing and Urban Development (HUD) Federal Housing Administration**. 
+I am a strategic finance leader with 20+ years of experience managing, modeling, and analyzing multi-billion dollar portfolios across **PNC Bank**, **PwC**, **KPMG**, and the **U.S. Department of Housing and Urban Development (HUD) Federal Housing Administration**. 
 
 This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in automating **Basel III**, **CCAR/DFAST**, **IFRS 9**, and general **Credit Risk** frameworks using Python and Streamlit.
 
