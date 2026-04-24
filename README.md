@@ -52,19 +52,29 @@ A Streamlit-based interactive analytics tool for modeling loan collectability, e
 ---
 
 ## 🎓 Education & Certifications
+
+## Education:
 - **MBA & MS in Finance** | Johns Hopkins University (GPA: 3.8)
 - **MA in International Business & Policy** | Georgetown University (GPA: 3.7)
-- **Certifications:**
+
+## Certifications:
 - **Risk & Financial Modeling**
     - IFRS 9 Credit Risk Modeling: PIT, Lifetime, PD, ECL
     - Credit Risk Modelling: PD, LGD, EAD & ECL (SAS)
     - Credit Risk Scorecard Development (Python)
     - Data Analytics Professional
 
-
-
-
-- AI for Credit Scoring, Agile Scrum Master, Agile Product Owner, Oracle Cloud Infrastructure Generative AI Professional, HarvardX TinyML, Credit Risk Modelling: PD, LGD, EAD & ECL in SAS, Credit Risk Scorecard Development using Python, Interactive Python & AI Gradio Aplications, IFRS 9 Credit Risk Modeling:PIT, Lifetime, PD, ECL, Blockchain Expert, Smart Contract Developer, Data Analytics Professional.
+- **AI, Machine Learning & Technical Development**
+    - AI for Credit Scoring
+    - Oracle Cloud Infrastructure Generative AI Professional
+    - Interactive Python & AI Gradio Applications
+    - HarvardX TinyML Certification
+ 
+- **Agile & Emerging Technologies**
+    - Agile Product Owner
+    - Agile Scrum Master
+    - Blockchain Expert
+    - Smart Contract Developer
 
 ---
 
