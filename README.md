@@ -1,7 +1,7 @@
 # James Graham 
 ### Finance | Credit Risk | Asset Disposition | Regulatory Compliance | Portfolio Risk Management | Financial Modeling 
 
-I am a strategic finance leader with 20+ years of experience managing, modeling, and analyzing multi-billion dollar portfolios across **PNC Bank**, **PwC**, **KPMG**, and the **U.S. Department of Housing and Urban Development (HUD) Federal Housing Administration**. 
+I am a strategic finance leader with 20+ years of experience managing, modeling, and analyzing multi-billion-dollar portfolios across **PNC Bank**, **PwC**, **KPMG**, and the **U.S. Department of Housing and Urban Development (HUD) Federal Housing Administration**. 
 
 This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in automating **Basel III**, **CCAR/DFAST**, **IFRS 9**, and general **Credit Risk** frameworks using Python and Streamlit.
 
@@ -30,11 +30,11 @@ The README.md file also **contains login and password** information for those Po
 ---
 
 ## 🛠️ Featured Technical PoCs
-*These projects translate executive risk management logic into scalable, using auditable Python code, AI/ML models, and Streamlit.*
+*These projects translate executive risk management logic into scalable, auditable Python code, AI/ML models, and Streamlit.*
 
 ### 📈 [PD-LGD-EAD Credit Risk Framework](Link-to-Repo)
 **Basel III Compliant IRB Approach**
-- **Methodology:** Methodology: Logistic Regression (Probability of Default) and Beta Regression (Loss Given Default) with Weight of Evidence (WoE) transformation to ensure regulatory explainability.
+- **Methodology:** Logistic Regression (Probability of Default) and Beta Regression (Loss Given Default) with Weight of Evidence (WoE) transformation to ensure regulatory explainability.
 - **Validation:** Automated Gini, KS-Tests, and Population Stability Index (PSI) reporting.
 - **Live Demo:** [Interactive Streamlit Dashboard](Link-to-App) for real-time Expected Credit Loss (ECL) calculation.
 
