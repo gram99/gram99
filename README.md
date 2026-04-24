@@ -13,18 +13,19 @@ This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in au
 
 The README.md file also **contains login and password** information for those PoCs that have a security layer. 
 
-**ALL** of the data used in the PoCs in all of the repositories found on this site is either sythetic or publically available data.  There is **no PII data** in any of the repositories.  The only data used that is not synthetic is found in the bank-poc-repo repository.  The data in that PoC is sourced from Federal Financial Institutions Examination Council (FFIEC) website: https://www.ffiec.gov/
+**ALL** of the data used in the PoCs in all of the repositories found on this site is either synthetic or publicly available data.  There is **no PII data** in any of the repositories.  The only data used that is not synthetic is found in the bank-poc-repo repository.  The data in that PoC is sourced from Federal Financial Institutions Examination Council (FFIEC) website: https://www.ffiec.gov/
 
 ---
 
 ## 🏛️ Executive Expertise & Regulatory Focus
 - **Risk Modeling:** End-to-end PD, LGD, and EAD scoring; Inherent Loss Indicator (ILI) development.
-- **Regulatory Reporting & Filings:** Automation frameworks for **FR-Y-14Q/M**, **FR-Y-9C**, and **FDIC** requirements.
-- **Stress Testing:** Scenario analysis for CRE, C&IB, and Retail loan portfolios (CCAR/DFAST/DFAST).
+- **Regulatory Reporting & Filings:** Automated frameworks for **FR-Y-14Q/M**, **FR-Y-9C**, and **FDIC** requirements.
+- **Stress Testing:** Scenario analysis for CRE, C&IB, and Retail loan portfolios (CCAR/DFAST).
 - **Portfolio Oversight:** Management of FHA multifamily and single-family loan insurance activities.
 - **Asset Disposition & Strategy:** Disposition of NPL loan portfolios, portfolio due dilgence for loan sales, loan syndication, portfolio analytics.
 - **Blended/Special Purpose Finance:** Funding infrastructure projects, development projects, and large-scale public-private partnerships (PPPs).
-- **Credit Scoring:** Appending credit scores and risk data for C&IB, CRE, and Retail loan portfolios to evaluate overall health, risk concentration, and performance of the portfolio, 
+- **Credit Scoring:** Integrated credit scores and risk data for C&IB, CRE, and Retail portfolios to evaluate health, risk concentration, and performance.
+
 
 ---
 
@@ -33,7 +34,7 @@ The README.md file also **contains login and password** information for those Po
 
 ### 📈 [PD-LGD-EAD Credit Risk Framework](Link-to-Repo)
 **Basel III Compliant IRB Approach**
-- **Methodology:** Logistic Regression (PD) and Beta Regression (LGD) using **Weight of Evidence (WoE)** for regulatory explainability.
+- **Methodology:** Methodology: Logistic Regression (Probability of Default) and Beta Regression (Loss Given Default) with Weight of Evidence (WoE) transformation to ensure regulatory explainability.
 - **Validation:** Automated Gini, KS-Tests, and Population Stability Index (PSI) reporting.
 - **Live Demo:** [Interactive Streamlit Dashboard](Link-to-App) for real-time Expected Credit Loss (ECL) calculation.
 
@@ -53,7 +54,17 @@ A Streamlit-based interactive analytics tool for modeling loan collectability, e
 ## 🎓 Education & Certifications
 - **MBA & MS in Finance** | Johns Hopkins University (GPA: 3.8)
 - **MA in International Business & Policy** | Georgetown University (GPA: 3.7)
-- **Certifications:** AI for Credit Scoring, Agile Scrum Master, Agile Product Owner, Oracle Cloud Infrastructure Generative AI Professional, HarvardX TinyML, Credit Risk Modelling: PD, LGD, EAD & ECL in SAS, Credit Risk Scorecard Development using Python, Interactive Python & AI Gradio Aplications, IFRS 9 Credit Risk Modeling:PIT, Lifetime, PD, ECL, Blockchain Expert, Smart Contract Developer, Data Analytics Professional.
+- **Certifications:**
+- **Risk & Financial Modeling**
+    - IFRS 9 Credit Risk Modeling: PIT, Lifetime, PD, ECL
+    - Credit Risk Modelling: PD, LGD, EAD & ECL (SAS)
+    - Credit Risk Scorecard Development (Python)
+    - Data Analytics Professional
+
+
+
+
+- AI for Credit Scoring, Agile Scrum Master, Agile Product Owner, Oracle Cloud Infrastructure Generative AI Professional, HarvardX TinyML, Credit Risk Modelling: PD, LGD, EAD & ECL in SAS, Credit Risk Scorecard Development using Python, Interactive Python & AI Gradio Aplications, IFRS 9 Credit Risk Modeling:PIT, Lifetime, PD, ECL, Blockchain Expert, Smart Contract Developer, Data Analytics Professional.
 
 ---
 
