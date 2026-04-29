@@ -37,6 +37,8 @@ The README.md file also **contains login and password** information for those Po
 ## 📂 Files
 The link below provides access to a documents folder that contains .pdf files of the README.md descriptions and screen shots for each of the Proof of Concepts (PoC) on this Github site. https://github.com/gram99/gram99/tree/main
 
+---
+
 ### 📈 [PD-LGD-EAD Credit Risk Framework](Link-to-Repo)
 **Basel III Compliant IRB Approach**
 - **Methodology:** Logistic Regression (Probability of Default) and Beta Regression (Loss Given Default) with Weight of Evidence (WoE) transformation to ensure regulatory explainability.
