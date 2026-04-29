@@ -14,9 +14,6 @@ Each Repository in this github includes a comprehensive **README.md** mark down 
 
 The README.md file also **contains login and password** information for those PoCs that have a security layer. 
 
-## 📂 Files
-The link below provides access to a documents folder that contains .pdf files of the README.md descriptions and screen shots for each of the Proof of Concepts (PoC) on this Github site. https://github.com/gram99/gram99/tree/main
-
 ✨ **ALL** of the data used in the PoCs in all of the repositories found on this site is either synthetic or publicly available data.  There is **no PII data** in any of the repositories.  The only data used that is not synthetic is found in the bank-poc-repo repository.  The data in that PoC is sourced from Federal Financial Institutions Examination Council (FFIEC) website: https://www.ffiec.gov/
 
 ---
@@ -36,6 +33,9 @@ The link below provides access to a documents folder that contains .pdf files of
 
 ## 🛠️ Featured Technical PoCs
 *These projects translate executive risk management logic into scalable, auditable Python code, AI/ML models, and Streamlit.*
+
+## 📂 Files
+The link below provides access to a documents folder that contains .pdf files of the README.md descriptions and screen shots for each of the Proof of Concepts (PoC) on this Github site. https://github.com/gram99/gram99/tree/main
 
 ### 📈 [PD-LGD-EAD Credit Risk Framework](Link-to-Repo)
 **Basel III Compliant IRB Approach**
