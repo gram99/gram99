@@ -17,7 +17,7 @@ The README.md file also **contains login and password** information for those Po
 ## 📂 Files
 The link below provides access to a documents folder that contains .pdf files of the README.md descriptions and screen shots for each of the Proof of Concepts (PoC) on this Github site. https://github.com/gram99/gram99/tree/main
 
-**ALL** of the data used in the PoCs in all of the repositories found on this site is either synthetic or publicly available data.  There is **no PII data** in any of the repositories.  The only data used that is not synthetic is found in the bank-poc-repo repository.  The data in that PoC is sourced from Federal Financial Institutions Examination Council (FFIEC) website: https://www.ffiec.gov/
+✨ **ALL** of the data used in the PoCs in all of the repositories found on this site is either synthetic or publicly available data.  There is **no PII data** in any of the repositories.  The only data used that is not synthetic is found in the bank-poc-repo repository.  The data in that PoC is sourced from Federal Financial Institutions Examination Council (FFIEC) website: https://www.ffiec.gov/
 
 ---
 
