@@ -61,8 +61,8 @@ A Streamlit-based interactive analytics tool for modeling loan collectability, e
 ## 🎓 Education & Certifications
 
 ## Education:
-- **MBA & MS in Finance** | Johns Hopkins University 
-- **MA in International Business & Policy** | Georgetown University 
+- **MBA & MS in Finance** | Johns Hopkins University (GPA: 3.8/4.0)
+- **MA in International Business & Policy** | Georgetown University (GPA: 3.75/4.0)
 
 ## Certifications:
 - **Risk & Financial Modeling**
