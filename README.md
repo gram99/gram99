@@ -69,7 +69,7 @@ A Streamlit-based interactive analytics tool for modeling loan collectability, e
     - IFRS 9 Credit Risk Modeling: PIT, Lifetime, PD, ECL
     - Credit Risk Modelling: PD, LGD, EAD & ECL (SAS)
     - Credit Risk Scorecard Development (Python)
-    - Data Analytics Professional
+    - Data Analytics Professional - SSGI
 
 - **AI, Machine Learning & Technical Development**
     - AI for Credit Scoring
