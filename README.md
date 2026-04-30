@@ -3,7 +3,7 @@
 
 I am a strategic finance leader with 20+ years of experience managing, modeling, and analyzing multi-billion-dollar portfolios across **PNC Bank**, **PwC**, **KPMG**, and the **U.S. Department of Housing and Urban Development (HUD) Federal Housing Administration**. 
 
-This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in automating **Basel III**, **CCAR/DFAST**, **IFRS 9**, and general **Credit Risk** frameworks using Python and Streamlit.
+This GitHub serves as a technical portfolio of my Proof of Concepts (PoCs) in automating **Basel III**, **CCAR/DFAST**, **IFRS 9**, **Operational Risk and Control (RCSA) automation** and general **Credit Risk** frameworks using Python and Streamlit.
 
 ---
 
@@ -23,16 +23,18 @@ The README.md file also **contains login and password** information for those Po
 - **Regulatory Reporting & Filings:** Developed automated data pipelines and frameworks for FR-Y-14Q/M, FR-Y-9C, and FDIC requirements.
 - **Stress Testing:** Scenario analysis for CRE, C&IB, and Retail loan portfolios (CCAR/DFAST).
 - **Portfolio Management & Oversight:** Management of FHA portfolios utilizing integrated credit scores and risk data to evaluate health, concentration, and performance.
-- **Strategic Operations & Infrastructure:** Driving first-line performance by re-engineering business architectures and workflows to maximize scalability, ensuring that operational execution is both technologically advanced and rigorously aligned with high-stakes institutional targets.
+- **Strategic Operations & Infrastructure:** Driving first-line performance by re-engineering business architectures and workflows to maximize scalability, ensuring that operational execution is both technologically advanced and anchored in an Operational Resilience framework to maintain critical services during enterprise-wide disruptions.
 - **Asset Disposition & Strategy:** Disposition of NPL loan portfolios, portfolio due dilgence for loan sales, loan syndication, portfolio analytics.
 - **Blended/Special Purpose Finance:** Funding infrastructure projects, development projects, and large-scale public-private partnerships (PPPs).
 - **Credit Scoring:** Integrated credit scores and risk data for C&IB, CRE, and Retail portfolios to evaluate health, risk concentration, and performance.
+- **Model Governance:** Implemented automated Model Lineage and Versioning to support internal audit and regulatory review.
+- **Ethics & Fairness:** Integrated Bias Detection and Mitigation protocols to ensure AI-driven credit decisions align with Fair Lending standards and Enterprise Risk appetites.
 
 
 ---
 
 ## 🛠️ Featured Technical PoCs
-*These projects translate executive risk management logic into scalable, auditable Python code, AI/ML models, and Streamlit.*
+*These projects translate executive risk management logic into scalable Python code and AI/ML models, built within a rigorous Model Risk Management (MRM) and Governance framework to ensure transparency, ethics, and regulatory explainability.*
 
 ## 📂 Files
 The link below provides access to a documents folder that contains .pdf files of the README.md descriptions and screen shots for each of the Proof of Concepts (PoC) on this Github site. https://github.com/gram99/gram99/tree/main
