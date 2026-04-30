@@ -14,7 +14,7 @@ Each Repository in this github includes a comprehensive **README.md** mark down 
 
 The README.md file also **contains login and password** information for those PoCs that have a security layer. 
 
-✨ **ALL** of the data used in the PoCs in all of the repositories found on this site is either synthetic or publicly available data.  There is **no PII data** in any of the repositories.  The only data used that is not synthetic is found in the bank-poc-repo repository.  The data in that PoC is sourced from Federal Financial Institutions Examination Council (FFIEC) website: https://www.ffiec.gov/
+✨ **ALL** of the data used in the PoCs in each of the repositories found on this site is either synthetic derived or publicly available data.  There is **no PII data** in any of the repositories.  The only data used that is not synthetic is found in the bank-poc-repo repository.  The data in that PoC is sourced from Federal Financial Institutions Examination Council (FFIEC) website at: https://www.ffiec.gov/
 
 ---
 
@@ -22,12 +22,12 @@ The README.md file also **contains login and password** information for those Po
 - **Risk Modeling:** End-to-end PD, LGD, and EAD scoring; Inherent Loss Indicator (ILI) development.
 - **Regulatory Reporting & Filings:** Developed automated data pipelines and frameworks for FR-Y-14Q/M, FR-Y-9C, and FDIC requirements.
 - **Stress Testing:** Scenario analysis for CRE, C&IB, and Retail loan portfolios (CCAR/DFAST).
-- **Portfolio Management & Oversight:** Management of FHA portfolios utilizing integrated credit scores and risk data to evaluate health, concentration, and performance.
+- **Portfolio Management & Oversight:** Management of FHA portfolios using integrated credit scores and risk data to evaluate health, concentration, and performance.
 - **Strategic Operations & Infrastructure:** Driving first-line performance by re-engineering business architectures and workflows to maximize scalability, ensuring that operational execution is both technologically advanced and anchored in an Operational Resilience framework to maintain critical services during enterprise-wide disruptions.
-- **Asset Disposition & Strategy:** Disposition of NPL loan portfolios, portfolio due dilgence for loan sales, loan syndication, portfolio analytics.
-- **Blended/Special Purpose Finance:** Funding infrastructure projects, development projects, and large-scale public-private partnerships (PPPs).
+- **Asset Disposition & Strategy:** Disposition of NPL loan portfolios, portfolio due dilgence for loan sales, loan syndication, and portfolio analytics.
+- **Blended/Special Purpose Finance:** Funding for infrastructure projects, development projects, and large-scale public-private partnerships (PPPs).
 - **Credit Scoring:** Integrated credit scores and risk data for C&IB, CRE, and Retail portfolios to evaluate health, risk concentration, and performance.
-- **Risk & Governance:** Enterprise Risk Management (ERM), Operational Risk (ORM), Operational Resilience, and Interest in AI/ML Model Governance Frameworks.
+- **Risk & Governance:** Enterprise Risk Management (ERM), Operational Risk Management (ORM), Operational Resilience, and in AI/ML Model Governance Frameworks.
 
 ---
 
