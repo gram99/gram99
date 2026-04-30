@@ -27,14 +27,12 @@ The README.md file also **contains login and password** information for those Po
 - **Asset Disposition & Strategy:** Disposition of NPL loan portfolios, portfolio due dilgence for loan sales, loan syndication, portfolio analytics.
 - **Blended/Special Purpose Finance:** Funding infrastructure projects, development projects, and large-scale public-private partnerships (PPPs).
 - **Credit Scoring:** Integrated credit scores and risk data for C&IB, CRE, and Retail portfolios to evaluate health, risk concentration, and performance.
-- **Model Governance:** Implemented automated Model Lineage and Versioning to support internal audit and regulatory review.
-- **Ethics & Fairness:** Integrated Bias Detection and Mitigation protocols to ensure AI-driven credit decisions align with Fair Lending standards and Enterprise Risk appetites.
-
+- **Risk & Governance:** Enterprise Risk Management (ERM), Operational Risk (ORM), Operational Resilience, and Interest in AI/ML Model Governance Frameworks.
 
 ---
 
 ## 🛠️ Featured Technical PoCs
-*These projects translate executive risk management logic into scalable Python code and AI/ML models, built within a rigorous Model Risk Management (MRM) and Governance framework to ensure transparency, ethics, and regulatory explainability.*
+*These projects translate executive risk management logic into scalable, auditable Python code and Streamlit applications. Each repository is designed with Model Risk Management (MRM) principles at the forefront—ensuring that all data pipelines and logic are transparent, reproducible, and ready for the rigorous scrutiny of internal audit and regulatory examiners (OCC/FRB).*
 
 ## 📂 Files
 The link below provides access to a documents folder that contains .pdf files of the README.md descriptions and screen shots for each of the Proof of Concepts (PoC) on this Github site. https://github.com/gram99/gram99/tree/main
