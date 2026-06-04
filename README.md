@@ -57,10 +57,10 @@ Digital First-Responder that allows executives to vet partnership proposals agai
 
 ### 📊 [Strategic Recovery & Capital Optimizer
 Executive-grade decision-support portal designed to navigate the complexities of the modern regulatory landscape. By unifying recovery operations with capital adequacy metrics (CET1), this platform demonstrates how high-performance recovery strategies directly mitigate capital drag and drive shareholder value.
-- **Capital Report & WARR Analysis:** Dynamic modeling of **Weighted Average Recovery Rates (WARR)** with automated Year-over-Year (YoY) variance tracking to identify performance leakage and its impact on CET1 ratios.
--**Dynamic Stress Testing (9-Quarter Engine):** NCO projection engine that overlays macro-economic severity sliders (Unemployment, GDP), allowing leaders to visualize capital requirements in recessionary environments.
--**Vendor Governance & Placement Simulator:** Visualizes the relationship between Tiered vendors and **Capital Drag (bps)**. Includes “what-if" tool to calculate the net recovery gain of shifting inventory between agencies or moving to legal-track recovery. Employes a Choropleth-based tracker monitoring state-level regulatory exceptions and audit updates (e.g., CPPA audits in CA).
--**Documentation:** 
+- **Capital Report & WARR Analysis:** Dynamic modeling of Weighted Average Recovery Rates (WARR) with automated Year-over-Year (YoY) variance tracking to identify performance leakage and its impact on CET1 ratios.
+- **Dynamic Stress Testing (9-Quarter Engine):** NCO projection engine that overlays macro-economic severity sliders (Unemployment, GDP), allowing leaders to visualize capital requirements in recessionary environments.
+- **Vendor Governance & Placement Simulator:** Visualizes the relationship between Tiered vendors and **Capital Drag (bps)**. Includes “what-if" tool to calculate the net recovery gain of shifting inventory between agencies or moving to legal-track recovery. Employes a Choropleth-based tracker monitoring state-level regulatory exceptions and audit updates (e.g., CPPA audits in CA).
+- **Documentation:** https://github.com/gram99/gram99/blob/main/documents/Strategic_Recovery_Capital_Optimizer.pdf
 
 ---
 
