@@ -39,13 +39,13 @@ The link below provides access to a documents folder that contains .pdf files of
 
 ---
 
-### 📈 Institutional Loan Syndication, Oracle-Driven Revaluation & NPL Marketplace
+### 📈 [Institutional Loan Syndication, Oracle-Driven Revaluation & NPL Marketplace
 Modern financial market utility for the lifecycle management, dynamic risk-pricing, and secondary market clearance of multifamily commercial real estate loans.
 - **Methodology:** Decoupling of asset states using ERC-1155 multi-token standards. Ecosystem seamlessly tracks unique underlying loan metadata alongside fractional participation shares.
 - **Compliance:** Instantaneous T+0 Settlement coupled with cryptographic underwriting gates.
 - **Documentation:** https://github.com/user-attachments/assets/4af6dc29-8383-41ce-b7f3-1ced3a7ba681
 
-### 🛡️ NAC Pre-Vetting & risk Mitigation Framework
+### 🛡️ [NAC Pre-Vetting & risk Mitigation Framework
 Digital First-Responder that allows executives to vet partnership proposals against complex internal policies in seconds, identifying regulatory "red flags" and financial misalignments before they reach the New Activity Committee (NAC).
 - **Knowlege Base:** Scalable modular design for instantaneous updating via pdf ingestion without model retraining.
 - **Orchestration:** LangChain (RAG Architecture)
@@ -55,11 +55,12 @@ Digital First-Responder that allows executives to vet partnership proposals agai
 - **Frontend:** Streamlit (Optimized for Managing Director-level UX)
 - **Documentation:** https://github.com/gram99/gram99/blob/main/documents/Institutional_Risk_Vetting.pdf 
 
-### 📊 [Regulatory Reporting Automation (FR-Y-9C)](Link-to-Repo)
-Tools designed to automate data extraction and validation for Federal Reserve and SEC filings.
-
-### 📈 [Loan Collectability & Recovery Toolbox](Link-to-Repo)
-A Streamlit-based interactive analytics tool for modeling loan collectability, expected recovery value, and portfolio‑level cash‑flow projections.
+### 📊 [Strategic Recovery & Capital Optimizer
+Executive-grade decision-support portal designed to navigate the complexities of the modern regulatory landscape. By unifying recovery operations with capital adequacy metrics (CET1), this platform demonstrates how high-performance recovery strategies directly mitigate capital drag and drive shareholder value.
+- **Capital Report & WARR Analysis:** Dynamic modeling of **Weighted Average Recovery Rates (WARR)** with automated Year-over-Year (YoY) variance tracking to identify performance leakage and its impact on CET1 ratios.
+-**Dynamic Stress Testing (9-Quarter Engine):** NCO projection engine that overlays macro-economic severity sliders (Unemployment, GDP), allowing leaders to visualize capital requirements in recessionary environments.
+-**Vendor Governance & Placement Simulator:** Visualizes the relationship between Tiered vendors and **Capital Drag (bps)**. Includes “what-if" tool to calculate the net recovery gain of shifting inventory between agencies or moving to legal-track recovery. Employes a Choropleth-based tracker monitoring state-level regulatory exceptions and audit updates (e.g., CPPA audits in CA).
+-**Documentation:** 
 
 ---
 
