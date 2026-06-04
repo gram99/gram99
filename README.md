@@ -45,10 +45,15 @@ Modern financial market utility for the lifecycle management, dynamic risk-prici
 - **Compliance:** Instantaneous T+0 Settlement coupled with cryptographic underwriting gates.
 - **Documentation:** https://github.com/user-attachments/assets/4af6dc29-8383-41ce-b7f3-1ced3a7ba681
 
-### 🛡️ [Macro Stress Testing Engine](Link-to-Repo)
-**Scenario-Based Capital Adequacy Simulation**
-- **Regulatory Alignment:** Designed to mimic the logic used in **CCAR/DFAST** submissions to the Federal Reserve.
-- **Output:** Automated stress-test impact reports on CET1 capital ratios under "Severe Adverse" scenarios.
+### 🛡️ NAC Pre-Vetting & risk Mitigation Framework
+Digital First-Responder that allows executives to vet partnership proposals against complex internal policies in seconds, identifying regulatory "red flags" and financial misalignments before they reach the New Activity Committee (NAC).
+- **Knowlege Base:** Scalable modular design for instantaneous updating via pdf ingestion without model retraining.
+- **Orchestration:** LangChain (RAG Architecture)
+- **LLM:** Llama 3.3-70B (via Groq)
+- **Vector Database:** ChromaDB (Local persistent storage)
+- **Embeddings:** HuggingFace all-MiniLM-L6-v2 (100% local/private processing)
+- **Frontend:** Streamlit (Optimized for Managing Director-level UX)
+- **Documentation:** https://github.com/gram99/gram99/blob/main/documents/Institutional_Risk_Vetting.pdf 
 
 ### 📊 [Regulatory Reporting Automation (FR-Y-9C)](Link-to-Repo)
 Tools designed to automate data extraction and validation for Federal Reserve and SEC filings.
