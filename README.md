@@ -43,7 +43,7 @@ The link below provides access to a documents folder that contains .pdf files of
 Modern financial market utility for the lifecycle management, dynamic risk-pricing, and secondary market clearance of multifamily commercial real estate loans.
 - **Methodology:** Decoupling of asset states using ERC-1155 multi-token standards. Ecosystem seamlessly tracks unique underlying loan metadata alongside fractional participation shares.
 - **Compliance:** Instantaneous T+0 Settlement coupled with cryptographic underwriting gates.
-- **Documentation:** https://github.com/user-attachments/assets/4af6dc29-8383-41ce-b7f3-1ced3a7ba681
+- **Documentation:** https://github.com/gram99/gram99/blob/main/documents/loan_syndication_poc.pdf
 
 ### 🛡️ NAC Pre-Vetting & risk Mitigation Framework
 Digital First-Responder that allows executives to vet partnership proposals against complex internal policies in seconds, identifying regulatory "red flags" and financial misalignments before they reach the New Activity Committee (NAC).
