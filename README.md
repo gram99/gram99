@@ -39,10 +39,13 @@ The link below provides access to a documents folder that contains .pdf files of
 
 ---
 
-### 📈 [PD-LGD-EAD Credit Risk Framework](Link-to-Repo)
-**Basel III Compliant IRB Approach**
-- **Methodology:** Logistic Regression (Probability of Default) and Beta Regression (Loss Given Default) with Weight of Evidence (WoE) transformation to ensure regulatory explainability.
-- **Validation:** Automated Gini, KS-Tests, and Population Stability Index (PSI) reporting.
+### 📈 Institutional Loan Syndication, Oracle-Driven Revaluation & NPL Marketplace
+Modern financial market utility for the lifecycle management, dynamic risk-pricing, and secondary market clearance of multifamily commercial real estate loans.
+- **Methodology:** Decoupling of asset states using ERC-1155 multi-token standards. Ecosystem seamlessly tracks unique underlying loan metadata alongside fractional participation shares.
+- **Compliance:** Instantaneous T+0 Settlement coupled with cryptographic underwriting gates.
+- **Documentation:** https://github.com/gram99/gram99/blob/main/documents/loan_syndication_poc.pdf<img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/4af6dc29-8383-41ce-b7f3-1ced3a7ba681" />
+
+
 - **Live Demo:** [Interactive Streamlit Dashboard](Link-to-App) for real-time Expected Credit Loss (ECL) calculation.
 
 ### 🛡️ [Macro Stress Testing Engine](Link-to-Repo)
