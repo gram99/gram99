@@ -45,9 +45,6 @@ Modern financial market utility for the lifecycle management, dynamic risk-prici
 - **Compliance:** Instantaneous T+0 Settlement coupled with cryptographic underwriting gates.
 - **Documentation:** https://github.com/user-attachments/assets/4af6dc29-8383-41ce-b7f3-1ced3a7ba681
 
-
-- **Live Demo:** [Interactive Streamlit Dashboard](Link-to-App) for real-time Expected Credit Loss (ECL) calculation.
-
 ### 🛡️ [Macro Stress Testing Engine](Link-to-Repo)
 **Scenario-Based Capital Adequacy Simulation**
 - **Regulatory Alignment:** Designed to mimic the logic used in **CCAR/DFAST** submissions to the Federal Reserve.
