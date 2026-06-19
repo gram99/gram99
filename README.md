@@ -45,7 +45,7 @@ Modern financial market utility for the lifecycle management, dynamic risk-prici
 - **Compliance:** Instantaneous T+0 Settlement coupled with cryptographic underwriting gates.
 - **Documentation:** https://github.com/gram99/gram99/blob/main/documents/loan_syndication_poc.pdf
 
-### 🛡️ NAC Pre-Vetting & risk Mitigation Framework
+### 🛡️ NAC Pre-Vetting & Risk Mitigation Framework
 Digital First-Responder that allows executives to vet partnership proposals against complex internal policies in seconds, identifying regulatory "red flags" and financial misalignments before they reach the New Activity Committee (NAC).
 - **Knowlege Base:** Scalable modular design for instantaneous updating via pdf ingestion without model retraining.
 - **Orchestration:** LangChain (RAG Architecture)
