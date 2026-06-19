@@ -53,7 +53,7 @@ Digital First-Responder that allows executives to vet partnership proposals agai
 - **Vector Database:** ChromaDB (Local persistent storage)
 - **Embeddings:** HuggingFace all-MiniLM-L6-v2 (100% local/private processing)
 - **Frontend:** Streamlit (Optimized for Managing Director-level UX)
-- **Documentation:** documents/Institutional_NAC_Pre_Vetting.pdf
+- **Documentation:** 
 
 ### 📊 Strategic Recovery & Capital Optimizer
 Executive-grade decision-support portal designed to navigate the complexities of the modern regulatory landscape. By unifying recovery operations with capital adequacy metrics (CET1), this platform demonstrates how high-performance recovery strategies directly mitigate capital drag and drive shareholder value.
