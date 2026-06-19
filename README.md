@@ -20,7 +20,7 @@ The README.md file also **contains login and password** information for those Po
 
 ## 🏛️ Executive Expertise & Regulatory Focus
 - **Risk Modeling:** End-to-End PD, LGD, and EAD scoring; Inherent Loss Indicator (ILI) development.
-- **Regulatory Reporting & Filings:** Automated data pipelines and frameworks for FR-Y-14Q/M, FR-Y-9C, and FDIC requirements.
+- **Regulatory Reporting & Filings:** Automated data pipelines and frameworks for FR-Y-14Q/M, FR-Y-9C, and FDIC regulatory reporting requirements.
 - **Stress Testing:** Scenario analysis for CRE, C&IB, and Retail loan portfolios (CCAR/DFAST).
 - **Portfolio Management & Oversight:** Management of FHA portfolios using integrated credit scores and risk data to evaluate health, concentration, and performance.
 - **Strategic Operations & Infrastructure:** Driving first-line performance by re-engineering business architectures and workflows to maximize scalability, ensuring that operational execution is both technologically advanced and anchored in an Operational Resilience framework to maintain critical services during enterprise-wide disruptions.
